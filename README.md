@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **multiple web applications** to help **Infrabel** building the mobility of the future
+- 🔭 I’m currently working on a huge **web application** to help **d'Ieteren** provide to its dealer the best car configuration tool ever
 - 🌱 I’m currently learning the **Rust** programming language and have a strong interest in **Fauna**
 - 💬 Ask me about anything related to **web development**
 - 📫 How to reach me: **[@fvilers on Twitter](https://twitter.com/fvilers)**

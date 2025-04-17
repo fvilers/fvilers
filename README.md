@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a various **web applications** to help **d'Ieteren Auto** in their day-to-day business
+- 🔭 I’m currently working as a **Web Application Specialist** at **IMI**
 - 🌱 I’m currently learning the **Rust** programming language and have a lot of fun
 - 👯 I love Open Source, Internet, and freedom of speech
 - 💬 Ask me about anything related to **web development**
 - 📫 Visit my [company website](https://www.dev-one.com)
-- ⚡ Fun fact: execute this command to know more about me : `npx fvilers` !
 
 <br>
 

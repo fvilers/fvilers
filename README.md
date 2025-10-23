@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a **Web Application Specialist** at **IMI**
-- 🌱 I’m currently learning the **Rust** programming language and have a lot of fun
+- 🌱 I’m currently learning and building games for the **PICO-8** using the **LUA** programming language, and I have a lot of fun!
 - 👯 I love Open Source, Internet, and freedom of speech
 - 💬 Ask me about anything related to **web development**
 - 📫 Visit my [company website](https://www.dev-one.com)
